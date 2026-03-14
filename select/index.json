@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うっすら",
+  "base_artist": "直田姫奈",
+  "createdAt": "2026-03-14T14:54:46.128656Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うっすら",
+      "artist": "直田姫奈",
+      "has_synced": false,
+      "path": "select/pl_01_うっすら_直田姫奈.txt"
+    }
+  ]
+}
